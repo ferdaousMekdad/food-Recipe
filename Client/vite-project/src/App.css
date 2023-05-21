@@ -1,0 +1,7 @@
+.routes{
+display: flex;
+justify-content: center;
+margin: 50px auto;
+
+font-size: 30px;
+}

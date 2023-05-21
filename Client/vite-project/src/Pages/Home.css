@@ -1,0 +1,28 @@
+
+.cartofrecipe{
+    width: 500px;
+    height: 700px;
+    list-style: none;
+    border: solid 2px black;
+    margin-bottom:100px ;  
+}
+ .nameofrecipe{
+    margin-left: 10%;
+    margin-bottom: 50px;
+}
+.ingredient{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+ .cookingtime{
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.imageofrecipe{
+    margin-left: 30px;
+    margin-bottom: 50px;
+    height: 350px;
+    width: 450px;
+
+}

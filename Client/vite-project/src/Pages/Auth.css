@@ -1,0 +1,39 @@
+.auth-countainer{
+  border: solid 2px black;
+    width: 400px;
+    height: 300px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+    background-color: #faf5f5;
+}
+form{
+   
+ margin-left: 30px;
+ 
+
+ 
+}
+form h2{
+    margin-bottom: 30px;
+    color: black;
+
+}
+.form-group{
+    
+    color: rebeccapurple;
+    
+
+}
+.form-group input{
+    height: 40px;
+    width: 300px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+ button{
+    height: 50px;
+    width: 150px;
+    margin-left: 70px;
+    border-radius: 15px;
+    margin-top: 10px;
+}

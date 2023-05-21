@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Navcountainer{
+    background-color:black;
+    display: flex;
+    justify-content: space-around;
+    height: 90px;
+}
+
+
+
+
+.bar{
+  width: 800px;
+   display: flex;
+   justify-content: center;
+   justify-content: space-between;
+   font-size:30px;
+   margin-top: 30px;
+   
+   
+}
+.home{
+    
+   
+    color: white;
+    text-decoration: none;
+}
+.creatrecipes{
+    color: white;
+   
+    text-decoration: none;
+}
+.savercipes{
+    color: white;
+    text-decoration: none;
+}
+.auth{
+    color: white;
+    text-decoration: none;
+}
